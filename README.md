@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-[[https://github.com/entbappy/Chicken-Disease-Classification--Project]]
+[https://github.com/thedatanerdz/MLP-69.git]
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
